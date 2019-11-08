@@ -1,6 +1,6 @@
 package Tests;
 
-import Helpers.BasicTestListener;
+import Listeners.BasicTestListener;
 import Helpers.ExcelHelper;
 import Pages.HomePage;
 import Pages.SearchPage;
@@ -10,6 +10,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import java.io.File;
 import java.io.IOException;
+import Listeners.RetryAnalyzer;
 
 @Listeners(BasicTestListener.class)
 public class SearchTests extends BaseSeleniumTest {
