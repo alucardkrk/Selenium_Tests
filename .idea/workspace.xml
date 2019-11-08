@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d4bf175-30f6-4728-9cbc-326528ce0243" name="Default Changelist" comment="" />
+    <list default="true" id="3d4bf175-30f6-4728-9cbc-326528ce0243" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/555000000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/606000000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/887000000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/SearchPage.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,23 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/RegistrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
+            <state relative-caret-position="187">
               <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/SearchTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            <state relative-caret-position="221">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,6 +49,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="84" column="97" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Listeners/RetryAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,11 +107,13 @@
       <find>//*[@id='other']</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Helpers/DriverType.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/SignInPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Helpers/SeleniumHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/Helpers/RegisterForm.java" />
@@ -95,9 +129,13 @@
         <option value="$PROJECT_DIR$/src/test/java/Utilities/SearchedProduct.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/SearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/BaseSeleniumTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Tests/SearchTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Listeners/MyRetry.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Listeners/RetryAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Tests/SearchTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java" />
       </list>
     </option>
   </component>
@@ -179,6 +217,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automotionPracticeTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automotionPracticeTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,24 +238,27 @@
             <path>
               <item name="automotionPracticeTest1" type="b2602c69:ProjectViewProjectNode" />
               <item name="automotionPracticeTest1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automotionPracticeTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automotionPracticeTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573161575676" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573248940824" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SearchTests.cartTotalPriceTest">
+  <component name="RunManager" selected="TestNG.C:/dev/java od nowa/automotionPracticeTest1/testng.xml">
     <configuration name="ExcelHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Helpers.ExcelHelper" />
       <module name="automotionPracticeTest1" />
@@ -233,6 +282,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/dev/java od nowa/automotionPracticeTest1/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automotionPracticeTest1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -291,7 +360,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTests.cartTotalPriceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTests.cartTotalPriceTest" type="TestNG" nameIsGenerated="true">
       <module name="automotionPracticeTest1" />
       <extension name="coverage">
         <pattern>
@@ -309,9 +378,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ExcelHelper" />
+      <item itemvalue="TestNG.SearchTests.cartTotalPriceTest" />
+      <item itemvalue="TestNG.C:/dev/java od nowa/automotionPracticeTest1/testng.xml" />
+      <item itemvalue="TestNG.RegistrationTest.createAnAccount" />
+      <item itemvalue="TestNG.RegistrationTest.invalidEmail" />
+      <item itemvalue="TestNG.RegistrationTest.testRequiredFields" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchTests.cartTotalPriceTest" />
+        <item itemvalue="TestNG.C:/dev/java od nowa/automotionPracticeTest1/testng.xml" />
         <item itemvalue="TestNG.RegistrationTest.testRequiredFields" />
         <item itemvalue="TestNG.RegistrationTest.createAnAccount" />
         <item itemvalue="Application.ExcelHelper" />
@@ -333,12 +410,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchTests_cartTotalPriceTest - 2019.11.07 at 19h 40m 56s.xml">
-      <configuration name="SearchTests.cartTotalPriceTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RegistrationTest_testRequiredFields - 2019.11.07 at 19h 45m 37s.xml">
-      <configuration name="RegistrationTest.testRequiredFields" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SearchTests_cartTotalPriceTest - 2019.11.07 at 19h 46m 45s.xml">
       <configuration name="SearchTests.cartTotalPriceTest" configurationId="TestNG" />
     </history-entry>
@@ -363,11 +434,18 @@
     <history-entry file="SearchTests_cartTotalPriceTest - 2019.11.07 at 22h 09m 35s.xml">
       <configuration name="SearchTests.cartTotalPriceTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__dev_java_od_nowa_automotionPracticeTest1_testng_xml - 2019.11.08 at 20h 28m 01s.xml">
+      <configuration name="C:/dev/java od nowa/automotionPracticeTest1/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__dev_java_od_nowa_automotionPracticeTest1_testng_xml - 2019.11.08 at 20h 41m 19s.xml">
+      <configuration name="C:/dev/java od nowa/automotionPracticeTest1/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26385927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,16 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -541,19 +609,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/129000000.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/606000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/555000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/887000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SearchPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/606000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/555000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/887000000.png" />
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/emailable-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/screenshots/627000000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/RegistrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Listeners/RetryAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -562,8 +647,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Tests/SearchTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -580,10 +665,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/RegistrationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="654">
+          <caret line="84" column="97" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasicTestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

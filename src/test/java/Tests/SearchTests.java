@@ -15,7 +15,7 @@ import java.io.IOException;
 public class SearchTests extends BaseSeleniumTest {
 
 
-    @Test (dataProvider = "getItemsToFind")
+    @Test (dataProvider = "getItemsToFind", retryAnalyzer = RetryAnalyzer.class)
     public void cartTotalPriceTest(String item){
         driver.get("http://automationpractice.com/");
         HomePage homePage = new HomePage(driver);

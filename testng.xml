@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/dev/java od nowa/automotionPracticeTest1">
+        <classes>
+            <class name="Tests.RegistrationTest">
+                <methods>
+                    <include name="invalidEmail"/>
+                    <include name="createAnAccount"/>
+                    <include name="testRequiredFields"/>
+                </methods>
+            </class>
+            <class name="Tests.SearchTests">
+                <methods>
+                    <include name="cartTotalPriceTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
