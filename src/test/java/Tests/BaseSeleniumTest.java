@@ -1,14 +1,14 @@
 package Tests;
 
 
-import Helpers.DriverFactory;
+import Utilities.DriverFactory;
 import Utilities.DriverType;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 public abstract class BaseSeleniumTest {
-    public WebDriver driver;
+    protected WebDriver driver;
 
     @BeforeMethod
     protected void setup() {
